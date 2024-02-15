@@ -38,6 +38,7 @@ Access the URL Shortener application in your web browser.
 
 Enter a long URL in the provided input field.
 
+
 Click the "Shrink" button to generate a shortened URL.
 
 Copy and share the shortened URL as needed.
